@@ -1,9 +1,14 @@
 ### 👋OverWindow
-Working on diverse areas..
+-----
+Hello there, I'm working on diverse areas..
 
 Website: <a href="https://www.overwindow.com/" target="_blank">www.overwindow.com</a>
 
-<div align=center>
+Mail: overwindow@khu.ac.kr
+
+------
+
+<div align=left>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -14,7 +19,7 @@ Website: <a href="https://www.overwindow.com/" target="_blank">www.overwindow.co
   [![OverWindow's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OverWindow&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/OverWindow)
 </div>
 
-
+-----
 <!--
 **OverWindow/OverWindow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
