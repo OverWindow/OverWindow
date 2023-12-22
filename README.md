@@ -1,6 +1,7 @@
 ### 👋OverWindow
 Working on diverse areas..
 
+
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -10,6 +11,7 @@ Working on diverse areas..
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
+[![OverWindow's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OverWindow&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/OverWindow)
 
 
 <!--
