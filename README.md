@@ -6,9 +6,7 @@ Website: <a href="https://www.overwindow.com/" target="_blank">www.overwindow.co
 
 Mail: overwindow@khu.ac.kr
 
-<span style="color: rgb(234, 155, 75)">
 ------
-</span>.
 
 <div align=left>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
