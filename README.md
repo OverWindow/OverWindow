@@ -11,7 +11,7 @@ Mail: overwindow@khu.ac.kr
 
 **1. MyAniTrack**
 
-Developing and operating MyAniTrack, an anime tracking and analytics service.
+ Developing and operating MyAniTrack, an anime tracking and analytics service.
 Responsible for both **Web and Android** development, as well as ongoing product operations and feature improvements.
 
 Website: <a href="https://www.myanitrack.com/" target="_blank">www.myanitrack.com - 애니메이션 기록 및 분석</a>
@@ -25,5 +25,11 @@ Website: <a href="https://www.unigate.kr/" target="_blank">www.unigate.kr - UNIG
 
 Website: <a href="https://topiq.unigate.kr/" target="_blank">topiq.unigate.kr - UNIGATE TOPIK test page</a>
 
+**3. Undergraduate Paper**
+
+Adaptive Selection and Concentration Hierarchy for Image Generation Model Prompting
+Research implementation and experimental code for a prompt optimization framework for image generation models.
+
+🏆 Excellence Award, KSC 2023 Undergraduate & Junior Paper Competition.
 
 -----
